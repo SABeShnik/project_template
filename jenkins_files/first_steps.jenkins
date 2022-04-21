@@ -1,5 +1,6 @@
 #!groovy
-// Check ub1 properties
+// Check jenkins-node-01 properties
+// Jenkins №4. Первый пайплайн
 properties([disableConcurrentBuilds()])
 
 pipeline {

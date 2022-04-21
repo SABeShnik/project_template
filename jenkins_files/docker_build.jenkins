@@ -1,5 +1,6 @@
 #!groovy
 // Run docker build
+// Jenkins №5. Простой docker build
 properties([disableConcurrentBuilds()])
 
 pipeline {
