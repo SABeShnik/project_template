@@ -16,7 +16,7 @@ pipeline {
             steps {
                 echo " ============== start building image =================="
                 dir ('docker/toolbox/Docker_Simple') {
-                	sh 'docker build . -t My_custom_alpine '
+                	sh 'docker build . '
                 }
             }
         }
