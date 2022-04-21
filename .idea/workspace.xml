@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d86b1a7d-870b-4499-918a-7100a2560424" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/jenkins_files/first_steps.jenkins" beforeDir="false" afterPath="$PROJECT_DIR$/jenkins_files/first_steps.jenkins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jenkins_files/docker_build_simple.jenkins" beforeDir="false" afterPath="$PROJECT_DIR$/jenkins_files/docker_build_simple.jenkins" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +30,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Users\Documents\GitHub\project_template\jenkins_files" />
+      <recent name="C:\Users\Users\Documents\GitHub\project_template\docker\toolbox\Docker_Simple" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,7 +49,49 @@
       <option name="project" value="LOCAL" />
       <updated>1650458327859</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1650528135069</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650528135069</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1650530606836</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650530606836</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1">
+      <created>1650530712530</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650530712530</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1">
+      <created>1650539141669</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650539141669</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1">
+      <created>1650539821138</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650539821138</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1">
+      <created>1650539996444</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1650539996444</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
